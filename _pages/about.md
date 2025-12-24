@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,4 +13,4 @@ I obtained my B.S. degree from College of Computer Science and lechnology,Jilin 
 
 You can contact me via the email address [24s003055@stu.hit.edu.cn](24s003055@stu.hit.edu.cn)
 
-[Email](24s003055@stu.hit.edu.cn) / [Github](https://github.com/Buzz-HIT) /
+[Email](24s003055@stu.hit.edu.cn) / [Github](https://github.com/Buzz-HIT) / [Wechat](../images/wechat.png) 
