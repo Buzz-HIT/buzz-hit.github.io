@@ -40,4 +40,4 @@ Skills
  
 Service and leadership
 ======
-* Currently pursuing a Master’s degree at [Research Center of Language Technology](https://cs.hit.edu.cn/2018/1126/c11289a218423/page.htm) from [Faculty Of Computer](https://computing.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/), under the supervision of [Prof. Tiejun Zhao](https://homepage.hit.edu.cn/zhaotiejun).
+* Currently pursuing a Master’s degree at [Research Center of Language Technology](https://cs.hit.edu.cn/2018/1126/c11289a218423/page.htm) from [Faculty Of Computer](https://computing.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/), under the supervision of [Prof. Tiejun Zhao](https://mitlab.hit.edu.cn/2018/0608/c9183a210162/page.htm).
